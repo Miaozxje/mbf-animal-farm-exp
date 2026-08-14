@@ -1,16 +1,42 @@
 # Nhà mạng MBF ngăn cản quyền lợi chính đáng của khách hàng & sự vô trách nhiệm của nhân viên
 
-> **Side note dành cho phía CSKH của MBF:** nội dung này mãi mãi vĩnh viễn thiên thu vĩnh hằng nằm ở đây.
-
 ## 1. Về việc nhà mạng MBF ngăn cản quyền lợi chính đáng của khách hàng (chuyển mạng giữ số)
 
-Sau vài lần bị từ chối YCCM, mình quyết định nâng cấp độ khó bằng cách gửi đơn khiếu nại lên:
+Sau vài lần bị từ chối YCCM, cộng thêm việc kết quả giải quyết đơn khiếu nại lần 1 theo mình là không hợp lí, mình quyết định gửi đơn khiếu nại lần 2 lên **Trung tâm chuyển mạng Quốc gia**. Lần này mình gửi song song cho cả các CQCN có thẩm quyền khác theo gợi ý tại [bài viết này trên voz](https://voz.vn/t/hanh-trinh-chuyen-mang-giu-so-trai-nghiem-tu-mobifone-sang-viettel.1037574/):
 
 - Thanh tra Chính phủ
-- Thanh tra Bộ KH&CN
-- Thanh tra Cục VT
+- Thanh tra Bộ Khoa học & Công nghệ
+- Thanh tra Cục Viễn thông
 
-Nội dung đơn các bạn có thể tham khảo tại file [redacted.pdf](redacted.pdf).
+> Nội dung đơn các bạn có thể tham khảo tại file [redacted.pdf](redacted.pdf).
+
+Một vài email mình dùng có khác so với bài viết trên voz. Danh sách cụ thể như bên dưới - tất cả đều được công khai trên website của các cơ quan nhà nước:
+
+**To:**
+
+```text
+18006099@vnta.gov.vn
+contact@vnta.gov.vn
+vanthuthanhtra@mic.gov.vn
+tonghop@mst.gov.vn
+stc@mst.gov.vn
+banbientap@thanhtra.gov.vn
+```
+
+**CC:**
+
+```text
+cuongnd@thanhtra.gov.vn
+tridh@thanhtra.gov.vn
+tuntt@thanhtra.gov.vn
+hangttt@thanhtra.gov.vn
+trungtq@thanhtra.gov.vn
+hmhiep@mst.gov.vn
+ntminhphuong@mst.gov.vn
+dhha@mst.gov.vn
+ddro@mst.gov.vn
+tdanh@mst.gov.vn
+```
 
 ## 2. Về cách xử lí vấn đề của Lead cửa hàng MBF HTM
 
@@ -20,11 +46,11 @@ Nội dung đơn các bạn có thể tham khảo tại file [redacted.pdf](reda
 
 - **Ngày 22/07/2026:** mình quay lại cửa hàng, lần này yêu cầu gặp Lead của MBF HTM (anh NTN). Anh tiếp nhận và đưa ra hướng giải quyết mà thời điểm đó mình thấy khá hợp lí: anh sẽ gửi email đến bộ phận liên quan để gỡ CKKCM. Nghe rất hứa hẹn. Nhân tiện hôm đó mình lập luôn 2 biên bản khiếu nại có đóng mộc của Lead cửa hàng MBF để có bằng chứng gửi cho CQCN nếu như không giải quyết được:
 
-  1. **Đơn khiếu nại về việc từ chối YCCM** (2 bản), chốt phản hồi chậm nhất ngày 29/07/2026. Đúng hạn, mình nhận được phản hồi — qua tin nhắn:
+  1. **Đơn khiếu nại về việc từ chối YCCM** (2 bản), chốt phản hồi chậm nhất ngày 29/07/2026. Đúng hạn, mình nhận được phản hồi - qua tin nhắn:
 
      > "Còn ck ko mnp thì anh có gởi thì theo đúng nội dung gia hạn gói 12c120 là có kèm 720 ngày không mnp nên cty không gỡ đc cho em nhé"
 
-     Không kèm bằng chứng, không kèm văn bản, không kèm bất cứ thứ gì chứng minh kết luận này đến từ MBF. Mình có xin phản hồi bằng văn bản đóng dấu để làm bằng chứng khiếu nại — và đó là câu hỏi cuối cùng của mình được ghi nhận nhưng không được trả lời. Đỉnh điểm: mình qua MBF HTM **4 lần**, và cả 4 lần anh NTN đều "không có mặt". Ngày 30/07/2026 mình nhắn tin xin **một ngày bất kì** để qua lấy biên bản phản hồi. Tin nhắn đó đến giờ vẫn chưa được rep.
+     Không kèm bằng chứng, không kèm văn bản, không kèm bất cứ thứ gì chứng minh kết luận này đến từ MBF. Mình có xin phản hồi bằng văn bản đóng dấu để làm bằng chứng khiếu nại - và đó là câu hỏi cuối cùng của mình được ghi nhận nhưng không được trả lời. Đỉnh điểm: mình qua MBF HTM **4 lần**, và cả 4 lần anh NTN đều "không có mặt". Ngày 30/07/2026 mình nhắn tin xin **một ngày bất kì** để qua lấy biên bản phản hồi. Tin nhắn đó đến giờ vẫn chưa được rep.
 
   2. **Đơn khiếu nại về nhân viên A** (1 bản) về thái độ và ứng xử với khách hàng chưa phù hợp, chốt phản hồi chậm nhất ngày 12/08/2026. Deadline đã trôi qua trong yên bình. Không phản hồi, không xin lỗi, không một dòng thông báo.
 
