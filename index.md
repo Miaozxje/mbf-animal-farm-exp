@@ -60,6 +60,11 @@ tdanh@mst.gov.vn
 
 ---
 
+## Cam kết
+
+- Toàn bộ nội dung mình chia sẻ ở trên là sự thật. Phía MBF nếu muốn xác minh thì có thể liên hệ trực tiếp anh NTN.
+- Các mốc thời gian diễn ra sự kiện có thể lệch 1-2 ngày, vì sự việc đã gần 1 tháng nên mình không nhớ chính xác tuyệt đối. Riêng các mốc thời gian cam kết phản hồi ghi trong đơn khiếu nại thì hoàn toàn đúng.
+
 ## Kinh nghiệm riêng
 
 - Đơn khiếu nại (có dấu mộc của Lead cửa hàng) chỉ là tờ giấy lộn, không hơn không kém.
