@@ -1,5 +1,16 @@
 # Nhà mạng Mobifone ngăn cản quyền lợi chính đáng của khách hàng & sự vô trách nhiệm của nhân viên
 
+## Mục lục
+
+- [Tóm tắt nội dung](#tóm-tắt-nội-dung)
+- [1. Về việc nhà mạng Mobifone ngăn cản quyền lợi chính đáng của khách hàng (chuyển mạng giữ số)](#1-về-việc-nhà-mạng-mobifone-ngăn-cản-quyền-lợi-chính-đáng-của-khách-hàng-chuyển-mạng-giữ-số)
+  - [Diễn biến & bằng chứng](#diễn-biến--bằng-chứng)
+  - [Khiếu nại lần 2](#khiếu-nại-lần-2)
+- [2. Về cách xử lí vấn đề của Lead cửa hàng Mobifone Hoàng Trọng Mậu](#2-về-cách-xử-lí-vấn-đề-của-lead-cửa-hàng-mobifone-hoàng-trọng-mậu)
+- [Cam kết](#cam-kết)
+- [Kinh nghiệm riêng](#kinh-nghiệm-riêng)
+- [Update 23-10-2026](#update-23-10-2026)
+
 ## Tóm tắt nội dung
 
 Mình là khách hàng dùng số Mobifone nhiều năm và muốn chuyển sang nhà mạng khác nhưng vẫn giữ nguyên số. Yêu cầu chuyển mạng của mình bị từ chối liên tục với lý do số của mình đang có "cam kết không chuyển mạng" - nhưng từ đó đến nay mình chưa từng được cung cấp bất kì văn bản hay bằng chứng nào về cái cam kết đó.
@@ -129,3 +140,10 @@ tdanh@mst.gov.vn
 
 - Đơn khiếu nại (có dấu mộc của Lead cửa hàng) chỉ là tờ giấy lộn, không hơn không kém.
 - Quyền lợi khách hàng đối với Mobifone thua cả đáy hang MU.
+
+### Update 23-10-2026
+
+- Ngày 25-09-2026 đã có nhân viên từ phía Mobifone gọi điện thoại đến và thông báo rằng số thuê bao của mình đã được gỡ cam kết không chuyển mạng MNP với lí do là "Tin nhắn được gửi đến có nội dung chưa phù hợp", và được thông tin rằng ngày 28-09-2026 sẽ có thể chuyển mạng thành công.
+- Mình có hỏi về các vấn đề khiếu nại liên quan đến cửa hàng Mobifone Hoàng Trọng Mậu thì nhân viên Mobifone liên lạc với mình thì phía Mobifone chưa nhận được bất kì thông tin nào về vấn đề này. Mình đã yêu cầu nhờ phía Mobifone xác minh thông tin với các bằng chứng đã được cung cấp trong bài viết này và liên hệ lại với mình.
+- Ngày 21-10-2026, mình có liên lạc lại với nhân viên Mobifone đã liên lạc với mình vào ngày 25-09-2026 để hỏi về thông tin tiến độ giải quyết các khiếu nại của mình và vẫn không nhận được câu trả lời chính thức nào.
+- Tại thời điểm này, mình vẫn chưa chuyển mạng do đang có 1 số vấn đề liên quan sức khỏe nên chưa thể ra cửa hàng để làm yêu cầu chuyển mạng được và mình cũng mong muốn rằng sẽ được giải quyết toàn bộ khiếu nại trước khi thực hiện quá trình chuyển mạng.
